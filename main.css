@@ -159,7 +159,7 @@ section{
     }
     61%,
     80%{
-        content:"Business Management";
+        content:"Business Manager";
     }
     81%,
     100%{
@@ -492,7 +492,7 @@ section{
     }
 
     .home-content h3{
-        font-size: 3rem;
+        font-size: 2.5rem;
         margin: 1rem 0;
     
         
